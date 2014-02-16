@@ -1,0 +1,3 @@
+git config --global user.name "qwyang"
+git config --global user.email "yangqunwei@huawei.com"
+git config --global credential.helper store
