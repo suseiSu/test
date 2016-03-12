@@ -3,3 +3,4 @@ wpa_passphrase
 wpa_supplicant -B -Dwext -iwlan0 -c /etc/wpa_supplicant.conf
 dhclinet wlan0 
 xxx
+yyy
