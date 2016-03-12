@@ -5,3 +5,4 @@ new line added in "feature" branch.
 branch b.
 xxx
 yyy
+zzz
